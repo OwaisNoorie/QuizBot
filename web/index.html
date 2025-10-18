@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Current Affairs Q&A Bot</title>
+  <style>
+    /* ==== Base Styles ==== */
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: 'Segoe UI', Roboto, sans-serif;
+      background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+      color: #222;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      min-height: 100vh;
+      padding: 40px 20px;
+    }
+
+    h1 {
+      font-size: 2rem;
+      margin-bottom: 25px;
+      color: #333;
+      text-align: center;
+      letter-spacing: 0.5px;
+    }
+
+    /* ==== Cards ==== */
+    .card {
+      background: #fff;
+      border-radius: 16px;
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.08);
+      padding: 24px;
+      width: 100%;
+      max-width: 700px;
+      margin-bottom: 20px;
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 10px 22px rgba(0, 0, 0, 0.12);
+    }
+
+    /* ==== Inputs and Buttons ==== */
+    input {
+      width: 100%;
+      padding: 14px;
+      font-size: 1rem;
+      border: 1px solid #ccc;
+      border-radius: 12px;
+      outline: none;
+      transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    }
+
+    input:focus {
+      border-color: #5a67d8;
+      box-shadow: 0 0 0 3px rgba(90, 103, 216, 0.2);
+    }
+
+    button {
+      display: inline-block;
+      padding: 12px 20px;
+      background: #5a67d8;
+      color: white;
+      border: none;
+      border-radius: 12px;
+      font-size: 0.95rem;
+      cursor: pointer;
+      transition: background 0.25s ease, transform 0.1s ease;
+    }
+
+    button:hover {
+      background: #434bb7;
+      transform: translateY(-1px);
+    }
+
+    button:active {
+      transform: scale(0.98);
+    }
+
+    #status {
+      display: block;
+      margin-top: 8px;
+      font-size: 0.9rem;
+      color: #555;
+    }
+
+    /* ==== Answer Section ==== */
+    #ans {
+      margin-top: 16px;
+      font-size: 1.05rem;
+      color: #333;
+      background: #f9fafc;
+      border-left: 4px solid #5a67d8;
+      padding: 12px;
+      border-radius: 10px;
+      white-space: pre-wrap;
+    }
+
+    .src {
+      margin-top: 10px;
+      font-size: 0.9rem;
+      color: #555;
+    }
+
+    .src a {
+      color: #5a67d8;
+      text-decoration: none;
+    }
+
+    .src a:hover {
+      text-decoration: underline;
+    }
+
+    /* ==== Responsive ==== */
+    @media (max-width: 600px) {
+      h1 { font-size: 1.6rem; }
+      button { width: 100%; margin-top: 10px; }
+      .card { padding: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <h1>🗞️ Current Affairs Q&A Bot</h1>
+
+  <div class="card">
+    <button id="refresh">🔄 Refresh Latest News (RSS)</button>
+    <small id="status"></small>
+  </div>
+
+  <div class="card">
+    <input id="q" placeholder="Ask anything... e.g., Who is the captain of the Indian cricket team?" />
+    <div style="text-align:right; margin-top:12px;">
+      <button id="ask">Ask</button>
+    </div>
+    <pre id="ans"></pre>
+    <div id="cites"></div>
+  </div>
+
+  <script>
+    async function refreshNews(){
+      document.getElementById("status").textContent = "Refreshing… Please wait.";
+      await fetch("/api/refresh", {method:"POST"});
+      document.getElementById("status").textContent = "✅ News refreshed successfully!";
+    }
+
+    async function ask(){
+      const q = document.getElementById("q").value.trim();
+      if(!q) return;
+      document.getElementById("ans").textContent = "Thinking...";
+      document.getElementById("cites").innerHTML = "";
+      const r = await fetch(`/api/ask?q=${encodeURIComponent(q)}`);
+      const data = await r.json();
+      document.getElementById("ans").textContent = data.answer || "(no answer)";
+      const cites = (data.sources||[]).map(
+        s => `<div class="src">Source: <a href="${s.url}" target="_blank">${s.title}</a></div>`
+      ).join("");
+      document.getElementById("cites").innerHTML = cites;
+    }
+
+    document.getElementById("refresh").onclick = refreshNews;
+    document.getElementById("ask").onclick = ask;
+  </script>
+</body>
+</html>

@@ -1,0 +1,574 @@
+[
+  {
+    "question": "Prince _____ gives up his title as Duke of York",
+    "options": [
+      "David Attenborough",
+      "Gaddafi",
+      "Andrew",
+      "Zaporizhzhia"
+    ],
+    "answer": "Andrew",
+    "label": "PERSON",
+    "source": "https://www.bbc.com/news/articles/cgqlyw9g7weo?at_medium=RSS&at_campaign=rss",
+    "original": "Prince Andrew gives up his title as Duke of York"
+  },
+  {
+    "question": "'It's a joyous moment', says brother of _____ accuser",
+    "options": [
+      "Zaporizhzhia",
+      "Prince Andrew",
+      "David Attenborough",
+      "Putin-Trump"
+    ],
+    "answer": "Prince Andrew",
+    "label": "PERSON",
+    "source": "https://www.bbc.com/news/videos/ckgk1eknvzpo?at_medium=RSS&at_campaign=rss",
+    "original": "'It's a joyous moment', says brother of Prince Andrew accuser"
+  },
+  {
+    "question": "_____ fails to secure Tomahawk missiles at talks with Trump",
+    "options": [
+      "Zelensky",
+      "Zaporizhzhia",
+      "Gaddafi",
+      "Trump"
+    ],
+    "answer": "Zelensky",
+    "label": "PERSON",
+    "source": "https://www.bbc.com/news/articles/c93dqew8l3xo?at_medium=RSS&at_campaign=rss",
+    "original": "Zelensky fails to secure Tomahawk missiles at talks with Trump"
+  },
+  {
+    "question": "Eleven killed after Israel hits bus in Gaza, _____-run civil defence says",
+    "options": [
+      "BNP Paribas",
+      "Prince Andrew &",
+      "Hamas",
+      "Duke of York"
+    ],
+    "answer": "Hamas",
+    "label": "ORG",
+    "source": "https://www.bbc.com/news/articles/cpv1nk7dy4yo?at_medium=RSS&at_campaign=rss",
+    "original": "Eleven killed after Israel hits bus in Gaza, Hamas-run civil defence says"
+  },
+  {
+    "question": "How an old suitcase revealed a hidden family fortune, lost under _____ rule",
+    "options": [
+      "Nazi",
+      "Israeli",
+      "Philippine",
+      "Libyan"
+    ],
+    "answer": "Nazi",
+    "label": "NORP",
+    "source": "https://www.bbc.com/news/articles/c33pvlez6yjo?at_medium=RSS&at_campaign=rss",
+    "original": "How an old suitcase revealed a hidden family fortune, lost under Nazi rule"
+  },
+  {
+    "question": "'It's scary to think I could have died' - the _____ coming back from fentanyl addiction",
+    "options": [
+      "French",
+      "Israeli",
+      "Libyan",
+      "Americans"
+    ],
+    "answer": "Americans",
+    "label": "NORP",
+    "source": "https://www.bbc.com/news/articles/cm2e471159vo?at_medium=RSS&at_campaign=rss",
+    "original": "'It's scary to think I could have died' - the Americans coming back from fentanyl addiction"
+  },
+  {
+    "question": "After all those scandals, why did _____ quit his titles now?",
+    "options": [
+      "Andrew",
+      "Prince Andrew",
+      "Gaddafi",
+      "David Attenborough"
+    ],
+    "answer": "Andrew",
+    "label": "PERSON",
+    "source": "https://www.bbc.com/news/articles/c3ep8gd1qv3o?at_medium=RSS&at_campaign=rss",
+    "original": "After all those scandals, why did Andrew quit his titles now?"
+  },
+  {
+    "question": "Grand sumo in _____: Why rituals and wrestling are drawing a new fanbase",
+    "options": [
+      "Hawaii",
+      "London",
+      "China",
+      "Iran"
+    ],
+    "answer": "London",
+    "label": "GPE",
+    "source": "https://www.bbc.com/news/articles/c4gw7009342o?at_medium=RSS&at_campaign=rss",
+    "original": "Grand sumo in London: Why rituals and wrestling are drawing a new fanbase"
+  },
+  {
+    "question": "'I'm not putting my ring back on yet,' says _____ after Tommy reunion",
+    "options": [
+      "Molly-Mae",
+      "Hamas",
+      "Forest",
+      "Trump"
+    ],
+    "answer": "Molly-Mae",
+    "label": "ORG",
+    "source": "https://www.bbc.com/news/articles/cg43lg3p7wno?at_medium=RSS&at_campaign=rss",
+    "original": "'I'm not putting my ring back on yet,' says Molly-Mae after Tommy reunion"
+  },
+  {
+    "question": "_____ becomes oldest Daytime Emmy winner",
+    "options": [
+      "Putin-Trump",
+      "David Attenborough",
+      "Prince Andrew",
+      "Zaporizhzhia"
+    ],
+    "answer": "David Attenborough",
+    "label": "PERSON",
+    "source": "https://www.bbc.com/news/articles/c1lqnjpvr79o?at_medium=RSS&at_campaign=rss",
+    "original": "David Attenborough becomes oldest Daytime Emmy winner"
+  },
+  {
+    "question": "Louisiana resident assisted in _____ 7 October attack, US says",
+    "options": [
+      "Hamas",
+      "WhatsApp",
+      "BNP Paribas",
+      "China Eastern Airlines"
+    ],
+    "answer": "Hamas",
+    "label": "ORG",
+    "source": "https://www.bbc.com/news/articles/cdx495n0qn9o?at_medium=RSS&at_campaign=rss",
+    "original": "Louisiana resident assisted in Hamas 7 October attack, US says"
+  },
+  {
+    "question": "'Have a great life!' _____ orders prison release of disgraced ex-lawmaker Santos",
+    "options": [
+      "Gaddafi",
+      "Putin-Trump",
+      "Trump",
+      "Zelensky"
+    ],
+    "answer": "Trump",
+    "label": "PERSON",
+    "source": "https://www.bbc.com/news/articles/cy5q3439xpqo?at_medium=RSS&at_campaign=rss",
+    "original": "'Have a great life!' Trump orders prison release of disgraced ex-lawmaker Santos"
+  },
+  {
+    "question": "Watch: Brits row from Peru to _____ in tiny boat",
+    "options": [
+      "Hawaii",
+      "Russia",
+      "Australia",
+      "Ukrainian"
+    ],
+    "answer": "Australia",
+    "label": "GPE",
+    "source": "https://www.bbc.com/news/videos/cd9kx7we4xyo?at_medium=RSS&at_campaign=rss",
+    "original": "Watch: Brits row from Peru to Australia in tiny boat"
+  },
+  {
+    "question": "Mystery heatwave warms _____ to new record",
+    "options": [
+      "Ukrainian",
+      "Zaporizhzhia",
+      "Pacific Ocean",
+      "Lebanon"
+    ],
+    "answer": "Pacific Ocean",
+    "label": "LOC",
+    "source": "https://www.bbc.com/news/articles/ce3xynwwx4yo?at_medium=RSS&at_campaign=rss",
+    "original": "Mystery heatwave warms Pacific Ocean to new record"
+  },
+  {
+    "question": "Anger as historic Scottish ship towed out to sea and sunk in _____",
+    "options": [
+      "Sudan",
+      "Lebanon",
+      "Curran",
+      "Hawaii"
+    ],
+    "answer": "Hawaii",
+    "label": "GPE",
+    "source": "https://www.bbc.com/news/articles/cn7em5p087vo?at_medium=RSS&at_campaign=rss",
+    "original": "Anger as historic Scottish ship towed out to sea and sunk in Hawaii"
+  },
+  {
+    "question": "_____ mum grows 58-stone pumpkin to beat son in family challenge",
+    "options": [
+      "Kenya",
+      "Suffolk",
+      "Ukraine",
+      "Pakistan"
+    ],
+    "answer": "Suffolk",
+    "label": "GPE",
+    "source": "https://www.bbc.com/news/articles/cz91pwzyq5jo?at_medium=RSS&at_campaign=rss",
+    "original": "Suffolk mum grows 58-stone pumpkin to beat son in family challenge"
+  },
+  {
+    "question": "_____ app",
+    "options": [
+      "Molly-Mae",
+      "BBC News",
+      "Prince Andrew &",
+      "BNP Paribas"
+    ],
+    "answer": "BBC News",
+    "label": "ORG",
+    "source": "https://www.bbc.co.uk/news/10628994?at_medium=RSS&at_campaign=rss",
+    "original": "BBC News app"
+  },
+  {
+    "question": "Inside Postecoglou's 39 days to forget at _____",
+    "options": [
+      "Forest",
+      "BNP Paribas",
+      "Prince Andrew &",
+      "Duke of York"
+    ],
+    "answer": "Forest",
+    "label": "ORG",
+    "source": "https://www.bbc.com/sport/football/articles/cz08z92r3g8o?at_medium=RSS&at_campaign=rss",
+    "original": "Inside Postecoglou's 39 days to forget at Forest"
+  },
+  {
+    "question": "_____ shines before rain ruins T20 opener",
+    "options": [
+      "China",
+      "Venezuela",
+      "Curran",
+      "Suffolk"
+    ],
+    "answer": "Curran",
+    "label": "GPE",
+    "source": "https://www.bbc.com/sport/cricket/articles/c5yld0x9zz2o?at_medium=RSS&at_campaign=rss",
+    "original": "Curran shines before rain ruins T20 opener"
+  },
+  {
+    "question": "_____ the Epstein Scandal: The Newsnight Interview",
+    "options": [
+      "Prince Andrew &",
+      "Molly-Mae",
+      "Forest",
+      "WhatsApp"
+    ],
+    "answer": "Prince Andrew &",
+    "label": "ORG",
+    "source": "https://www.bbc.co.uk/iplayer/episode/m000c1j4/newsnight-prince-andrew-the-epstein-scandal-the-newsnight-interview?at_medium=RSS&at_campaign=rss",
+    "original": "Prince Andrew & the Epstein Scandal: The Newsnight Interview"
+  },
+  {
+    "question": "Q&A: Tomahawk missiles, the drone race, and _____ Halloween",
+    "options": [
+      "Pakistan",
+      "Sudan",
+      "Ukrainian",
+      "Gaza"
+    ],
+    "answer": "Ukrainian",
+    "label": "GPE",
+    "source": "https://www.bbc.co.uk/sounds/play/p0m91pv4?at_medium=RSS&at_campaign=rss",
+    "original": "Q&A: Tomahawk missiles, the drone race, and Ukrainian Halloween"
+  },
+  {
+    "question": "In the occupied _____, the war continues",
+    "options": [
+      "Gaza",
+      "Ukraine",
+      "West Bank",
+      "Curran"
+    ],
+    "answer": "West Bank",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/opinions/2025/10/18/in-the-occupied-west-bank-the-war-continues?traffic_source=rss",
+    "original": "In the occupied West Bank, the war continues"
+  },
+  {
+    "question": "_____ ceasefire: Peace deal or political theatre?",
+    "options": [
+      "Lebanon",
+      "Gaza",
+      "Curran",
+      "Venezuela"
+    ],
+    "answer": "Gaza",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/video/the-listening-post/2025/10/18/gaza-ceasefire-peace-deal-or-political?traffic_source=rss",
+    "original": "Gaza ceasefire: Peace deal or political theatre?"
+  },
+  {
+    "question": "LIVE: _____ – Premier League",
+    "options": [
+      "Molly-Mae",
+      "Hamas",
+      "Forest",
+      "Fulham vs Arsenal"
+    ],
+    "answer": "Fulham vs Arsenal",
+    "label": "ORG",
+    "source": "https://www.aljazeera.com/sports/liveblog/2025/10/18/live-fulham-vs-arsenal-premier-league?traffic_source=rss",
+    "original": "LIVE: Fulham vs Arsenal – Premier League"
+  },
+  {
+    "question": "UK military says ship ablaze after being struck off coast of _____",
+    "options": [
+      "Yemen",
+      "Peru",
+      "Russia",
+      "China"
+    ],
+    "answer": "Yemen",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/news/2025/10/18/uk-military-says-ship-ablaze-after-being-struck-off-coast-of-yemen?traffic_source=rss",
+    "original": "UK military says ship ablaze after being struck off coast of Yemen"
+  },
+  {
+    "question": "_____ nuclear plant repairs begin in Ukraine as ceasefire zones set",
+    "options": [
+      "Trump",
+      "Putin-Trump",
+      "Zaporizhzhia",
+      "Andrew"
+    ],
+    "answer": "Zaporizhzhia",
+    "label": "PERSON",
+    "source": "https://www.aljazeera.com/news/2025/10/18/zaporizhzhia-nuclear-plant-repairs-begin-in-ukraine-as-ceasefire-zones-set?traffic_source=rss",
+    "original": "Zaporizhzhia nuclear plant repairs begin in Ukraine as ceasefire zones set"
+  },
+  {
+    "question": "Dozens injured, heavy security in Kenya as _____ mourned before burial",
+    "options": [
+      "Gaza",
+      "Odinga",
+      "Russia",
+      "West Bank"
+    ],
+    "answer": "Odinga",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/news/2025/10/18/dozens-injured-heavy-security-in-kenya-as-odinga-mourned-before-burial?traffic_source=rss",
+    "original": "Dozens injured, heavy security in Kenya as Odinga mourned before burial"
+  },
+  {
+    "question": "_____ says restrictions on nuclear programme ‘terminated’ as deal expires",
+    "options": [
+      "Iran",
+      "Ukrainian",
+      "Pakistan",
+      "Australia"
+    ],
+    "answer": "Iran",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/news/2025/10/18/iran-says-restrictions-on-nuclear-programme-terminated-as-deal-expires?traffic_source=rss",
+    "original": "Iran says restrictions on nuclear programme ‘terminated’ as deal expires"
+  },
+  {
+    "question": "_____ detainee relays how torture in Israeli prison made him blind",
+    "options": [
+      "Palestinian",
+      "Nazi",
+      "Cambodian",
+      "Israeli"
+    ],
+    "answer": "Palestinian",
+    "label": "NORP",
+    "source": "https://www.aljazeera.com/news/2025/10/18/palestinian-detainee-relays-how-torture-in-israeli-prison-made-him-blind?traffic_source=rss",
+    "original": "Palestinian detainee relays how torture in Israeli prison made him blind"
+  },
+  {
+    "question": "_____ to resume flights to India after five-year freeze",
+    "options": [
+      "BNP Paribas",
+      "Prince Andrew &",
+      "Fulham vs Arsenal",
+      "China Eastern Airlines"
+    ],
+    "answer": "China Eastern Airlines",
+    "label": "ORG",
+    "source": "https://www.aljazeera.com/news/2025/10/18/china-eastern-airlines-to-resume-flights-to-india-after-five-year-freeze?traffic_source=rss",
+    "original": "China Eastern Airlines to resume flights to India after five-year freeze"
+  },
+  {
+    "question": "_____ kills 11 Palestinian family members in Gaza’s deadliest truce breach",
+    "options": [
+      "Israel",
+      "Manipur",
+      "Ukraine",
+      "Curran"
+    ],
+    "answer": "Israel",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/news/2025/10/18/israel-kills-11-palestinian-family-members-in-gazas-deadliest-truce-breach?traffic_source=rss",
+    "original": "Israel kills 11 Palestinian family members in Gaza’s deadliest truce breach"
+  },
+  {
+    "question": "US court bars Israeli spyware firm from targeting _____ users",
+    "options": [
+      "BBC News",
+      "Fulham vs Arsenal",
+      "WhatsApp",
+      "Trump"
+    ],
+    "answer": "WhatsApp",
+    "label": "ORG",
+    "source": "https://www.aljazeera.com/news/2025/10/18/us-court-bars-israeli-spyware-firm-from-targeting-whatsapp-users?traffic_source=rss",
+    "original": "US court bars Israeli spyware firm from targeting WhatsApp users"
+  },
+  {
+    "question": "_____ accuses Pakistan of breaking truce as 10 killed in air attacks",
+    "options": [
+      "Curran",
+      "Australia",
+      "Santos",
+      "Afghanistan"
+    ],
+    "answer": "Afghanistan",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/news/2025/10/18/afghanistan-accuses-pakistan-of-breaking-truce-as-several-killed-in-air-attacks?traffic_source=rss",
+    "original": "Afghanistan accuses Pakistan of breaking truce as 10 killed in air attacks"
+  },
+  {
+    "question": "Thousands evacuate _____ coast as Tropical Storm Fengshen approaches",
+    "options": [
+      "French",
+      "Scottish",
+      "Americans",
+      "Philippine"
+    ],
+    "answer": "Philippine",
+    "label": "NORP",
+    "source": "https://www.aljazeera.com/news/2025/10/18/thousands-evacuate-philippine-coast-as-tropical-storm-fengshen-approaches?traffic_source=rss",
+    "original": "Thousands evacuate Philippine coast as Tropical Storm Fengshen approaches"
+  },
+  {
+    "question": "LIVE: _____ releases Palestinian bodies to Gaza as part of ceasefire deal",
+    "options": [
+      "Israel",
+      "Lebanon",
+      "Hawaii",
+      "Ukraine"
+    ],
+    "answer": "Israel",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/news/liveblog/2025/10/18/live-israel-kills-28-in-gaza-since-ceasefire-hamas-urges-accountability?traffic_source=rss",
+    "original": "LIVE: Israel releases Palestinian bodies to Gaza as part of ceasefire deal"
+  },
+  {
+    "question": "What we know about the torture, abuse of Palestinian prisoners by _____",
+    "options": [
+      "Israel",
+      "Pakistan",
+      "London",
+      "West Bank"
+    ],
+    "answer": "Israel",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/news/2025/10/18/what-we-know-about-the-torture-abuse-of-palestinian-prisoners-by-israel?traffic_source=rss",
+    "original": "What we know about the torture, abuse of Palestinian prisoners by Israel"
+  },
+  {
+    "question": "_____ expels top military commanders in latest anticorruption purge",
+    "options": [
+      "Tommy",
+      "London",
+      "China",
+      "Curran"
+    ],
+    "answer": "China",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/news/2025/10/18/china-expels-top-military-commanders-in-latest-anticorruption-purge?traffic_source=rss",
+    "original": "China expels top military commanders in latest anticorruption purge"
+  },
+  {
+    "question": "Does each boat strike off the coast of _____ save 25,000 US lives?",
+    "options": [
+      "Ukrainian",
+      "Venezuela",
+      "China",
+      "Manipur"
+    ],
+    "answer": "Venezuela",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/news/2025/10/18/does-each-boat-strike-off-the-coast-of-venezuela-save-25000-us-lives?traffic_source=rss",
+    "original": "Does each boat strike off the coast of Venezuela save 25,000 US lives?"
+  },
+  {
+    "question": "_____ freed from Cambodian scam centres return home under arrest",
+    "options": [
+      "Scottish",
+      "South Koreans",
+      "French",
+      "Philippine"
+    ],
+    "answer": "South Koreans",
+    "label": "NORP",
+    "source": "https://www.aljazeera.com/news/2025/10/18/south-koreans-freed-from-cambodian-scam-centres-return-home-under-arrest?traffic_source=rss",
+    "original": "South Koreans freed from Cambodian scam centres return home under arrest"
+  },
+  {
+    "question": "US jury finds French bank _____ complicit in Sudan atrocities",
+    "options": [
+      "Kremlin",
+      "Trump",
+      "Duke of York",
+      "BNP Paribas"
+    ],
+    "answer": "BNP Paribas",
+    "label": "ORG",
+    "source": "https://www.aljazeera.com/news/2025/10/18/us-jury-finds-french-bank-bnp-paribas-complicit-in-sudan-atrocities?traffic_source=rss",
+    "original": "US jury finds French bank BNP Paribas complicit in Sudan atrocities"
+  },
+  {
+    "question": "Can the catastrophe in _____ be reversed?",
+    "options": [
+      "Afghanistan",
+      "Israel",
+      "China",
+      "Gaza"
+    ],
+    "answer": "Gaza",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/video/by-the-numbers-3/2025/10/18/can-the-catastrophe-in-gaza-be-reversed?traffic_source=rss",
+    "original": "Can the catastrophe in Gaza be reversed?"
+  },
+  {
+    "question": "Kremlin envoy proposes ‘_____ tunnel’ to link Russia, US",
+    "options": [
+      "Trump",
+      "Putin-Trump",
+      "Prince Andrew",
+      "Gaddafi"
+    ],
+    "answer": "Putin-Trump",
+    "label": "PERSON",
+    "source": "https://www.aljazeera.com/news/2025/10/18/kremlin-envoy-proposes-putin-trump-tunnel-to-link-russia-us?traffic_source=rss",
+    "original": "Kremlin envoy proposes ‘Putin-Trump tunnel’ to link Russia, US"
+  },
+  {
+    "question": "Lebanon court orders son of late Libyan leader _____ freed on $11m bail",
+    "options": [
+      "Andrew",
+      "David Attenborough",
+      "Putin-Trump",
+      "Gaddafi"
+    ],
+    "answer": "Gaddafi",
+    "label": "PERSON",
+    "source": "https://www.aljazeera.com/news/2025/10/18/lebanon-court-orders-son-of-late-libyan-leader-gaddafi-freed-on-11m-bail?traffic_source=rss",
+    "original": "Lebanon court orders son of late Libyan leader Gaddafi freed on $11m bail"
+  },
+  {
+    "question": "India: How is the ethnic conflict in _____ affecting ordinary citizens?",
+    "options": [
+      "Manipur",
+      "Venezuela",
+      "Kenya",
+      "Odinga"
+    ],
+    "answer": "Manipur",
+    "label": "GPE",
+    "source": "https://www.aljazeera.com/video/101-east/2025/10/18/india-how-is-the-ethnic-conflict-in-manipur-affecting-ordinary-citizens?traffic_source=rss",
+    "original": "India: How is the ethnic conflict in Manipur affecting ordinary citizens?"
+  }
+]
